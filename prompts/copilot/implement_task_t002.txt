@@ -1,0 +1,11 @@
+Implement only task T002 from:
+- specs/001-hello-world/tasks.md
+
+Read first:
+- specs/001-hello-world/spec.md
+- specs/001-hello-world/plan.md
+
+Constraints:
+- write tests only
+- do not refactor production code unless required
+- keep tests readable and focused

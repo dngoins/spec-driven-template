@@ -1,0 +1,12 @@
+Implement only task T001 from:
+- specs/001-hello-world/tasks.md
+
+Before coding, read:
+- specs/001-hello-world/spec.md
+- specs/001-hello-world/plan.md
+
+Rules:
+- Modify only the CLI implementation
+- Do not write tests
+- Keep the solution minimal
+- Explain any assumptions before making them
