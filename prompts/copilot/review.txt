@@ -1,0 +1,10 @@
+Review this branch against:
+- specs/001-hello-world/spec.md
+- specs/001-hello-world/plan.md
+- specs/001-hello-world/tasks.md
+
+Focus on:
+- spec compliance
+- edge cases
+- test coverage
+- readability

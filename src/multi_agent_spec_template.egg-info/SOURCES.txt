@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/hello_world/__init__.py
+src/hello_world/cli.py
+src/multi_agent_spec_template.egg-info/PKG-INFO
+src/multi_agent_spec_template.egg-info/SOURCES.txt
+src/multi_agent_spec_template.egg-info/dependency_links.txt
+src/multi_agent_spec_template.egg-info/entry_points.txt
+src/multi_agent_spec_template.egg-info/top_level.txt
+tests/test_cli.py

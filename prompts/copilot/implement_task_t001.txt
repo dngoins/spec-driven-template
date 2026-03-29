@@ -1,0 +1,12 @@
+Implement only task T001 from:
+- specs/001-hello-world/tasks.md
+
+Read first:
+- specs/001-hello-world/spec.md
+- specs/001-hello-world/plan.md
+
+Constraints:
+- edit only CLI implementation files
+- do not add dependencies
+- do not write tests in this task
+- keep changes small

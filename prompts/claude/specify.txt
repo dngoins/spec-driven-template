@@ -1,0 +1,18 @@
+Read:
+- .specify/memory/constitution.md
+
+Then help me drive Spec Kit for this feature.
+
+Please produce or refine:
+1. spec
+2. plan
+3. tasks
+
+Feature:
+Build a tiny hello-world CLI with:
+- `hello`
+- optional `--name`
+- tests
+- README quickstart
+
+Keep everything minimal and explicit.

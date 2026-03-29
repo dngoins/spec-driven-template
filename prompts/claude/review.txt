@@ -1,0 +1,13 @@
+Review this branch against the feature documents:
+
+- specs/001-hello-world/spec.md
+- specs/001-hello-world/plan.md
+- specs/001-hello-world/tasks.md
+
+Focus on:
+- requirement coverage
+- unnecessary complexity
+- missing tests
+- user-facing behavior mismatches
+
+Provide a concise review with recommended fixes.
