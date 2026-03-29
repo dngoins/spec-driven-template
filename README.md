@@ -1,2 +1,53 @@
 # spec-driven-template
 Quick Multi Agent Spec driven template for Claude and Github CLI agents
+
+# multi-agent-spec-template
+
+A ready-to-use template repo for **multi-agent software development** with:
+
+- **Spec Kit**
+- **Claude Code**
+- **GitHub Copilot CLI**
+- **git worktrees**
+- optional **tmux** workflow
+
+## What this repo is for
+
+This template gives you a practical starting point for running multiple coding agents in parallel against the same project without having them overwrite each other.
+
+It includes:
+
+- a simple hello-world Python example
+- an example feature spec, plan, and tasks
+- prompt templates for Claude and Copilot
+- Copilot custom agents
+- helper scripts for worktrees and tmux
+
+## Recommended workflow
+
+1. Clone this repo
+2. Initialize git and push to GitHub
+3. Install your CLI tools
+4. Initialize Spec Kit
+5. Create or refine the spec
+6. Split work into parallel tasks
+7. Launch one agent per worktree
+8. Review, test, merge
+
+## Quick start
+
+### Clone the template
+
+```bash
+git clone <your-template-repo-url> my-new-project
+cd my-new-project
+
+## License
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This project is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You are free to share and adapt the material for any purpose, even commercially, as long as appropriate credit is given.
+
+See the [LICENSE](./LICENSE) file for details.
